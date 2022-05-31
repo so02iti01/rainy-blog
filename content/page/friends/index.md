@@ -1,6 +1,6 @@
 ---
 title: "Friends"
-date: 2019-05-28
+date: 2022-05-31
 description: 
 slug: "links"
 layout: links
@@ -21,41 +21,16 @@ menu:
 .article-footer {
 	display: none;
   }
-
 </style>
 
 
 
 
+我自己的友链数据是：
 
+> 名称：一只脆脆鲨  
+> 简介：Quand on est tellement triste, on aime les couchers de soleil.  
+> 地址：[https://blog.sharktale.xyz/](https://blog.sharktale.xyz/)  
+> 头像：[https://s2.loli.net/2022/05/31/1LR63MS5b2s4rKz.jpg](https://s2.loli.net/2022/05/31/1LR63MS5b2s4rKz.jpg)
 
- 这个标题默认隐藏了标题与页尾，推荐用以下格式来交换友情链接。
-
-友链头像放在`/assets/link-img`，友链数据放在`/data/links.json`
-
-link.json格式为：
-
-```
-[
-    {
-        "title": "小球飞鱼",
-        "website": "https://mantyke.icu/",
-        "image": "mantyke.png",
-     "description": "我们会一起遇见鲸鱼吗？"
-    },
-	{
-        "title": "友情链接2",
-        "website": "",
-        "image": "",
-     "description": ""
-    }
-]
-```
-
-
-
-> 名称：小球飞鱼  
-> 简介：我们会一起遇见鲸鱼吗？  
-> 地址：[https://mantyke.icu/](https://mantyke.icu/)  
-> 头像：[https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png](https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png)
-
+下面是我的朋友们：

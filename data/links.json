@@ -1,14 +1,26 @@
 [
     {
+        "title": "chn",
+        "website": "https://chn.moe/",
+        "image": "chn.jpg",
+     "description": "最珍视的东西是灵感"
+    },
+    {
         "title": "小球飞鱼",
         "website": "https://mantyke.icu/",
         "image": "mantyke.png",
      "description": "我们会一起遇见鲸鱼吗？"
     },
 	{
-        "title": "友情链接2",
-        "website": "",
-        "image": "",
-     "description": ""
+        "title": "Southfox",
+        "website": "https://blog.southfox.me/",
+        "image": "southfox.png",
+     "description": "KEEP CALM AND CARRY ON."
+    },
+    {
+        "title": "Plaskier",
+        "website": "https://plaskier.vercel.app/",
+        "image": "plaskier.png",
+     "description": "总之欢迎你来！和您隔着屏幕热情地握手！"
     }
 ]
