@@ -1,6 +1,6 @@
 ---
-title: "Test"
-description: 博客装修中
+title: "记录我的阅读与感想"
+description: 新博客建好啦
 date: 2022-05-31T10:57:47+08:00
 hidden: false
 comments: true
@@ -12,8 +12,5 @@ categories:
 image: 
 ---
 
- 这里是测试，博客正在装修中
-
 1. 这个主题很舒服
 2. 之后会开始更新
-3. `About` 和 `friends` 页面还没更改
