@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: false
-    favicon: 
+    favicon: https://s2.loli.net/2022/05/31/1LR63MS5b2s4rKz.jpg # 这里要用一个图床地址
 
     footer:
         since: 2022
