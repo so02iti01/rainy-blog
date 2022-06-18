@@ -6,6 +6,9 @@ tags:
   - Zelda
 categories: 
   - 游戏
+hidden: false
+comments: true
+draft: false
 ---
 
 本来移动了网盘里的一些文件，意外发现豆瓣销号的时候，保存下来的，收藏夹的全部几篇内容。其中一篇是2020年的时候，看到关于`塞尔达：旷野之息`的介绍，吸引我的句子是
